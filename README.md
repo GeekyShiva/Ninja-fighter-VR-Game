@@ -7,7 +7,11 @@ I have Open Sourced the **complete** Unity project for the developer and VR enth
 
 
 Simple Setup:
-      1.Download The VR SDK
+   ```
+       Download The VR SDK
+      
+   ```
+   
 
 
 
