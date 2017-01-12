@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="FinalNinjaMay2016.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleVR\Scripts\GvrViewer.cs">
+    <Files>
+      <File FileName="Assets\GoogleVR\Scripts\GvrViewer.cs" Line="375" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
