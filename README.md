@@ -1,10 +1,18 @@
 # Ninja-fighter-VR-Game
+This is a VR game developed on Unity platform using Google VR SDK and is compatible to run with any android device .The game is a simple VR Third Person shooter game in which there are various levels and hurdles...
 
-###Due to very huge size of .zip file the upload was not possible and the direct push was leaving some unidentified format files that were important dependency for the project so I am uploading the direct download drive linke here in the github folder.
 
-**will soon sort out this issue with github.**
 
-**Follow [This link](https://drive.google.com/file/d/0B9TkcFiJdIn8bVJFcmw5YklwWTA/view?usp=sharing)**
+I have Open Sourced the **complete** Unity project for the developer and VR enthusiasts .
+
+
+Simple Setup:
+      1.Download The VR SDK
+
+
+
+
+
 
 
 **Enjoy!!**
